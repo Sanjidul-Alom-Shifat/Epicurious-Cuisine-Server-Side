@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Tony Khan",
+    "image" : "https://pbs.twimg.com/media/EXwjFTjU4AA-KuX.jpg",
+    "bio": "Chef Tony Khan is a renowned chef and restaurateur in Bangladesh, known for his fusion cuisine and innovative dishes. He started his culinary career in London and has worked in several Michelin-starred restaurants. He returned to Bangladesh in 2002 to start his own restaurant, 'Khan's Kitchen'.",
+    "number_of_recipes" : 7,
+    "recipes": [
+      {
+        "first_recipe_name": "Spicy Thai Basil Chicken",
+        "first_recipe_ingredients": [
+          "1. 500g boneless chicken breast, sliced",
+          "2. 2 cups Thai basil leaves",
+          "3. 4 cloves garlic, minced",
+          "4. 2 red chili peppers, sliced",
+          "5. 2 tablespoons soy sauce"
+        ],
+        "first_recipe_cooking_method": "1. Heat a large pan or wok over high heat. Add the sliced chicken and cook until browned, about 5-7 minutes. 2. Add the garlic and chili peppers to the pan and stir-fry for 1-2 minutes. 3. Add the Thai basil leaves and soy sauce to the pan and continue stir-frying until the chicken is fully cooked and coated in the sauce, about 2-3 minutes. Serve hot.",
+        "first_recipe_rating": 5
+      },
+      {
+        "second_recipe_name": "Prawn and Mango Salad",
+        "second_recipe_ingredients": [
+          "1. 500g prawns, peeled and deveined",
+          "2. 2 ripe mangoes, peeled and sliced",
+          "3. 1 red onion, thinly sliced",
+          "4. 1 cucumber, thinly sliced",
+          "5. 1 red bell pepper, thinly sliced"
+        ],
+        "second_recipe_cooking_method": "1. Bring a large pot of salted water to a boil. Add the prawns and cook for 2-3 minutes, until pink and cooked through. 2. Drain the prawns and let cool. 3. In a large bowl, combine the prawns, mangoes, onion, cucumber, and bell pepper. 4. In a small bowl, whisk together the dressing ingredients. 5. Pour the dressing over the salad and toss to combine. Serve chilled.",
+        "second_recipe_rating": 4.5
+      },
+      {
+        "third_recipe_name": "Grilled Lemon Herb Fish",
+        "third_recipe_ingredients": [
+          "1. 4 fish fillets (such as tilapia or sea bass)",
+          "2. 1/4 cup olive oil",
+          "3. 2 tablespoons lemon juice",
+          "4. 2 cloves garlic, minced",
+          "5. 1 tablespoon chopped fresh parsley"
+        ],
+        "third_recipe_cooking_method": "1. Preheat the grill to medium-high heat. 2. In a small bowl, whisk together the olive oil, lemon juice, garlic, and parsley. 3. Brush the fish fillets with the marinade and let sit for 10-15 minutes. 4. Grill the fish fillets for 3-4 minutes per side, until cooked through and lightly charred. Serve hot.",
+        "third_recipe_rating": 4
+      }
+    ],
+    "years_of_experience": 20,
+    "likes": 4
+  },
+  {
+    "id": 2,
+    "name": "Chef Muniruzzaman",
+    "number_of_recipes" : 6,
+    "likes": 4.5,
+    "years_of_experience": 5,
+    "image" : "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
+    "bio": "Chef Muniruzzaman is a Bangladeshi celebrity chef who is known for his traditional cuisine with a modern twist. He started his career as a chef in the early 90s and has since worked in several prestigious restaurants and hotels in Bangladesh and abroad. Chef Muniruzzaman is also a cookbook author and has appeared on several TV shows.",
+    "recipes": [
+      {
+        "first_recipe_name": "Prawn Malai Curry",
+        "first_recipe_ingredients": [
+          "1. 500g prawns, peeled and deveined",
+          "2. 2 cups coconut milk",
+          "3. 1 onion, finely chopped",
+          "4. 1 teaspoon cumin seeds",
+          "5. 1 teaspoon coriander powder"
+        ],
+        "first_recipe_cooking_method": "1. Heat oil in a pan over medium-high heat. Add cumin seeds and let them splutter. 2. Add the chopped onions and green chilies and sauté until the onions turn golden brown. 3. Add the cumin powder, coriander powder, and turmeric powder and cook for 1-2 minutes. 4. Add the prawns and salt to taste and cook for 2-3 minutes until the prawns are pink and cooked through. 5. Add the coconut milk and bring the curry to a simmer. Cook for 5-7 minutes until the curry has thickened. Serve hot with steamed rice.",
+        "first_recipe_rating": 4.5
+      },
+      {
+        "second_recipe_name": "Roshomalai",
+        "second_recipe_ingredients": [
+          "1. 1 liter milk",
+          "2. 1/4 cup lemon juice",
+          "3. 1/4 cup water",
+          "4. 1 cup sugar",
+          "5. 4 cups water"
+        ],
+        "second_recipe_cooking_method": "1. Bring the milk to a boil in a heavy-bottomed pan. 2. Add lemon juice and water to the milk and stir well. The milk will curdle, and the whey will separate. 3. Remove from heat and strain the milk through a muslin cloth to separate the whey from the curd. Rinse the curd with cold water to remove any traces of lemon juice. 4. Hang the curd in the muslin cloth for 30 minutes to remove any excess water. 5. In another pan, add water, sugar, cardamom pods, and saffron strands and bring to a boil. 6. Add the balls of curd (called 'chena') to the sugar syrup and let it cook for 10-15 minutes until they are soft and spongy. 7. Remove from heat and let it cool. 8. Garnish with chopped almonds and pistachios and serve chilled.",
+        "second_recipe_rating": 5
+      },
+      {
+        "third_recipe_name": "Dhakai Beef Bhuna",
+        "third_recipe_ingredients": [
+          "1. 500g beef, cut into cubes",
+          "2. 1 cup thinly sliced onions",
+          "3. 1 tablespoon ginger paste",
+          "4. 1 tablespoon garlic paste",
+          "5. 1 teaspoon cumin powder"
+        ],
+        "third_recipe_cooking_method": "1. Heat oil in a pan over medium-high Rinse the curd with cold water to remove any traces of lemon juice. 4. Hang the curd in the muslin cloth for 30 minutes to remove any excess water. 5. In another pan, add water, sugar, cardamom pods, and saffron strands and bring to a boil. 6. Add the balls of curd (called 'chena') to the sugar syrup and let it cook for 10-15 minutes until they are soft and spongy. 7. Remove from heat and let it cool. 8. Garnish with chopped almonds and pistachios and serve chilled.",
+        "third_recipe_rating": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chef Tareq Taylor",
+    "number_of_recipes" : 3,
+    "likes": 3.8,
+    "years_of_experience": 14,
+    "image" : "https://farm6.staticflickr.com/5608/15394789440_454fe8b187.jpg",
+    "bio": "Chef Tareq Taylor is a Swedish-Bangladeshi chef who is known for his modern Scandinavian cooking with a global influence. He is a cookbook author, TV host, and restaurateur. Chef Tareq has worked in several Michelin-starred restaurants and has won several awards for his culinary expertise.",
+    "recipes": [
+      {
+        "first_recipe_name": "Grilled Shrimp Skewers with Chermoula Sauce",
+        "first_recipe_ingredients": [
+          "1. 1 pound large shrimp, peeled and deveined",
+          "2. 1/4 cup olive oil",
+          "3. 3 cloves garlic, minced",
+          "4. 1 teaspoon ground cumin",
+          "5. 1 teaspoon ground coriander"
+        ],
+        "first_recipe_cooking_method": "1. Preheat grill to medium-high heat. 2. In a bowl, mix together olive oil, garlic, cumin, coriander, smoked paprika, cayenne pepper, salt, and pepper. 3. Thread the shrimp onto the bamboo skewers. 4. Brush the shrimp with the spice mixture. 5. Grill the shrimp skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through. 6. Serve hot with chermoula sauce.",
+        "first_recipe_rating": 4
+      },
+      {
+        "second_recipe_name": "Smoked Salmon and Dill Potato Salad",
+        "second_recipe_ingredients": [
+          "1. 1 pound baby potatoes, halved",
+          "2. 1/4 cup mayonnaise",
+          "3. 1/4 cup sour cream",
+          "4. 2 tablespoons fresh dill, chopped",
+          "5. 1 tablespoon lemon juice"
+        ],
+        "second_recipe_cooking_method": "1. Boil the potatoes in salted water until tender, about 10-12 minutes. Drain and let cool. 2. In a bowl, whisk together mayonnaise, sour cream, dill, lemon juice, salt, and pepper. 3. Add the cooled potatoes to the bowl and toss to coat. 4. Gently fold in the smoked salmon. 5. Cover and chill in the refrigerator for at least 1 hour before serving.",
+        "second_recipe_rating": 4.5
+      },
+      {
+        "third_recipe_name": "Braised Beef Short Ribs with Red Wine Sauce",
+        "third_recipe_ingredients": [
+          "1. 4 beef short ribs",
+          "2. 1 tablespoon olive oil",
+          "3. 1 onion, chopped",
+          "4. 2 carrots, chopped",
+          "5. 2 celery stalks, chopped"
+        ],
+        "third_recipe_cooking_method": "1. Preheat oven to 325°F (165°C). 2. Heat olive oil in a Dutch oven over medium-high heat. 3. Season the short ribs with salt and pepper and sear them in the pot until browned on all sides. Remove from the pot and set aside. 4. Add onion, carrots, celery, and garlic to the pot and cook until softened, about 5 minutes. 5. Add tomato paste and thyme and cook for another minute. 6. Pour in red wine and beef broth and bring to a",
+        "third_recipe_rating": 3.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chef Shawkat Osman",
+    "likes": 4.3,
+    "years_of_experience": 25,
+    "image" : "https://1.bp.blogspot.com/-aIsd0ndB07E/U0tS5zk17kI/AAAAAAAAVkw/uHcDx23F5RI/s1600/021.JPG",
+    "number_of_recipes" : 3,
+    "bio": "Chef Shawkat Osman is a renowned Bangladeshi chef who specializes in traditional Bangladeshi cuisine. He has over 30 years of experience in the culinary industry and has worked in several top-rated restaurants around the world. Chef Shawkat is also a cookbook author and TV personality, and has won numerous awards for his contributions to the culinary arts.",
+    "recipes": [
+      {
+        "first_recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "first_recipe_ingredients": [
+          "1. 4 hilsa fish steaks",
+          "2. 4 tablespoons mustard oil",
+          "3. 4 green chilies, chopped",
+          "4. 4 tablespoons yellow mustard seeds",
+          "5. 1 tablespoon turmeric powder"
+        ],
+        "first_recipe_cooking_method": "1. Marinate the hilsa fish steaks with turmeric and salt for 30 minutes. 2. In a bowl, mix together the yellow mustard seeds with water and grind to a fine paste. 3. Heat mustard oil in a pan and fry the fish steaks until golden brown. 4. Remove the fish from the pan and set aside. 5. In the same pan, add the chopped green chilies and fry for a few seconds. 6. Add the mustard paste and cook until the oil separates. 7. Add the fried fish steaks to the pan and coat them with the mustard sauce. 8. Serve hot with steamed rice.",
+        "first_recipe_rating": 4.5
+      },
+      {
+        "second_recipe_name": "Bhuna Khichuri (Spiced Rice and Lentils)",
+        "second_recipe_ingredients": [
+          "1. 1 cup basmati rice",
+          "2. 1 cup red lentils",
+          "3. 1 onion, chopped",
+          "4. 3 cloves garlic, minced",
+          "5. 2 tablespoons vegetable oil"
+        ],
+        "second_recipe_cooking_method": "1. Rinse the rice and lentils and soak them in water for 30 minutes. 2. In a pan, heat vegetable oil over medium-high heat. 3. Add the cumin seeds, cinnamon stick, cardamom pods, cloves, and bay leaves. Fry for a few seconds until fragrant. 4. Add the chopped onion and minced garlic to the pan and fry until the onions are translucent. 5. Drain the rice and lentils and add them to the pan. 6. Add turmeric powder and salt, and stir well. 7. Add water to the pan and bring to a boil. 8. Reduce the heat to low and cover the pan with a lid. 9. Simmer for 20-25 minutes, or until the rice and lentils are cooked through. 10. Serve hot with your choice of side dish.",
+        "second_recipe_rating": 4
+      },
+      {
+        "third_recipe_name": "Braised Beef Short Ribs with Red Wine Sauce",
+        "third_recipe_ingredients": [
+          "1. 4 beef short ribs",
+          "2. 1 tablespoon olive oil",
+          "3. 1 onion, chopped",
+          "4. 2 carrots, chopped",
+          "5. 2 celery stalks, chopped"
+        ],
+        "third_recipe_cooking_method": "1. Preheat oven to 325°F (165°C). 2. Heat olive oil in a Dutch oven over medium-high heat. 3. Season the short ribs with salt and pepper and sear them in the pot until browned on all sides. Remove from the pot and set aside. 4. Add onion, carrots, celery, and garlic to the pot and cook until softened, about 5 minutes. 5. Add tomato paste and thyme and cook for another minute. 6. Pour in red wine and beef broth and bring to a",
+        "third_recipe_rating": 4.2
+
+      }
+    ]
+  },
+  {
+    "id" : 5,
+    "name": "Chef Shahed Ali",
+    "years_of_experience": 12,
+    "likes": 4.8,
+    "number_of_recipes" : 5,
+    "image" : "https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/292440537_469071111887521_4721646032497868038_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE3w3-DDmoT3OJCPUCYju1dJL_pI47KjNEkv-kjjsqM0QK-l4BvK7JXru9-r3AbGEedysbMXtjT-hYH8Ha500v3&_nc_ohc=KyyFmOZs_k0AX-MFblP&_nc_ht=scontent.fdac13-1.fna&oh=00_AfDbQrXMgQ5KwgDHtEUJ4-7OoPUZGQeW94Xhb03B5wHiLA&oe=6454A14B",
+    "bio": "Chef Shahed Ali is a popular Bangladeshi chef, TV personality, and cookbook author. He is known for his expertise in traditional Bangladeshi cuisine and has hosted several cooking shows on television. With over 20 years of experience in the culinary industry, Chef Shahed has become a household name in Bangladesh and has inspired many home cooks to experiment with local ingredients and flavors.",
+    "experience": 20,
+    "recipes": [
+      {
+        "first_recipe_name": "Pitha",
+        "first_recipe_ingredients": ["1. Rice flour", "2. Sugar", "3. Coconut", "4. Milk", "5. Cardamom"],
+        "first_recipe_cooking_method": "1. Combine rice flour, sugar, and coconut. 2. Add milk gradually to form a smooth batter. 3. Add cardamom and mix well. 4. Heat a non-stick pan and drop spoonfuls of batter to make small pancakes. 5. Cook until golden brown on both sides. Serve hot.",
+        "first_recipe_rating": 4.5
+      },
+      {
+        "second_recipe_name": "Bhorta",
+        "second_recipe_ingredients": [
+          "1. Eggplant",
+          "2. Onion",
+          "3. Garlic",
+          "4. Mustard oil",
+          "5. Green chili"
+        ],
+        "second_recipe_cooking_method": "1. Roast eggplant over an open flame until charred on all sides. 2. Peel off the skin and mash the flesh with a fork. 3. In a separate pan, sauté onion and garlic until softened. 4. Add the mashed eggplant and continue to cook for a few minutes. 5. Drizzle with mustard oil and add green chili to taste. Serve with rice or flatbread.",
+        "second_recipe_rating": 4.2
+      },
+      {
+        "third_recipe_name": "Shorshe Ilish",
+        "third_recipe_ingredients": [
+          "1. Hilsa fish",
+          "2. Mustard seeds",
+          "3. Turmeric",
+          "4. Green chili",
+          "5. Mustard oil"
+        ],
+        "third_recipe_cooking_method": "1. Marinate hilsa fish with turmeric and salt. 2. Grind mustard seeds into a paste with water. 3. Heat mustard oil in a pan and add green chili. 4. Add the mustard paste and cook for a few minutes. 5. Add the fish and cook until tender. Serve with steamed rice.",
+        "third_recipe_rating": 4.8
+      }
+    ]
+  },
+  {
+    "id" : 6,
+    "name": "Chef Tommy Miah",
+    "likes": 3.9,
+    "number_of_recipes" : 4,
+    "years_of_experience": 5,
+    "image" : "https://tds-images.thedailystar.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/tommy_miah.jpg",
+    "bio": "Tommy Miah is a Bangladeshi-born British celebrity chef, restaurateur, and entrepreneur. He has written several cookbooks and has appeared on various TV shows. Miah is the founder of the Tommy Miah's Hospitality Management Company, which manages a number of restaurants and catering businesses.",
+    "experience": "Over 40 years",
+    "recipes": [
+      {
+        "first_recipe_name": "Chicken Bhuna",
+        "first_recipe_ingredients": [
+          "1. Chicken",
+          "2. Onions",
+          "3. Tomatoes",
+          "4. Ginger",
+          "5. Garlic"
+        ],
+        "first_recipe_cooking_method": "1. Heat oil in a pan and add onions. Fry until golden brown. \n2. Add ginger and garlic and fry for a minute. \n3. Add chopped tomatoes and green chilies. Fry until the tomatoes are soft. \n4. Add cumin powder, coriander powder, turmeric powder, and salt. Fry for a minute. \n5. Add chicken and fry for 5 minutes. \n6. Add water and cook until the chicken is tender. \n7. Add garam masala and cook for a few more minutes. \n8. Serve hot.",
+        "first_recipe_rating": 4.8
+      },
+      {
+        "second_recipe_name": "Lamb Vindaloo",
+        "second_recipe_ingredients": [
+          "1. Lamb",
+          "2. Onions",
+          "3. Garlic",
+          "4. Ginger",
+          "5. Green Chilies"
+        ],
+        "second_recipe_cooking_method": "1. Heat oil in a pan and add onions. Fry until golden brown. \n2. Add ginger, garlic, and green chilies. Fry for a minute. \n3. Add cumin powder, coriander powder, turmeric powder, and red chili powder. Fry for a minute. \n4. Add lamb and fry for 5 minutes. \n5. Add water and cook until the lamb is tender. \n6. Add vinegar, sugar, and salt. Cook for a few more minutes. \n7. Add garam masala and cook for a few more minutes. \n8. Serve hot.",
+        "second_recipe_rating": 4.6
+      },
+      {
+        "third_recipe_name": "Prawn Biryani",
+        "third_recipe_ingredients": [
+          "1. Prawns",
+          "2. Basmati Rice",
+          "3. Onions",
+          "4. Ginger",
+          "5. Garlic"
+        ],
+        "third_recipe_cooking_method": "1. Wash and soak the rice for 30 minutes. \n2. Heat oil in a pan and add onions. Fry until golden brown. \n3. Add ginger, garlic, and green chilies. Fry for a minute. \n4. Add cumin powder, coriander powder, turmeric powder, and salt. Fry for a minute. \n5. Add prawns and fry for 5 minutes. \n6. Add water and cook until the prawns are tender. \n7. Cook the rice in a separate pot. \n8. In a",
+        "third_recipe_rating": 4.6
+      }
+    ]
+  }
+]
